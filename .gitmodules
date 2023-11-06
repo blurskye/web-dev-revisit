@@ -1,0 +1,3 @@
+[submodule "learning-material-code"]
+	path = learning-material-code
+	url = https://github.com/CodeWithHarry/Sigma-Web-Dev-Course.git
