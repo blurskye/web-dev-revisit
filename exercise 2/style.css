@@ -1,0 +1,12 @@
+div p:first-child {
+    color: red;
+    background-color: yellow;
+}
+
+p {
+    background-color: aliceblue;
+}
+
+/* body {
+    background-color: aliceblue;
+} */
