@@ -1,0 +1,26 @@
+.card {
+    margin: auto;
+    width: 40vw;
+    /* height: 40vh; */
+    border: 2px solid aliceblue;
+}
+
+img {
+    width: 35vw;
+    overflow: hidden;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.image-container {
+    margin: auto;
+    text-align: center;
+}
+
+.catagories p {
+    display: inline-block;
+    /* border-radius: 50%; */
+    width: 50px;
+    text-align: center;
+    border: 0.5px solid gray;
+}
